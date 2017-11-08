@@ -11,6 +11,7 @@ struct node {
    struct node * parent;
 };
 
-struct node * init(long a);
-void node_print(struct node * a);
+struct node * init(long a); // constructor
+void node_print(struct node * a); // print key, payload
+void update_node_data(struct node * a); // updates the data field in a node  
 #endif
