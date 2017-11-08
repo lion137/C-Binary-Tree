@@ -1,2 +1,2 @@
-# C-Binary-Tree
-C implementation of a biary tree
+### C-Binary-Tree
+C implementation of a binary tree. 
